@@ -2,7 +2,7 @@
 
 A real time mask detection classifier developed to detect and classify faces with or without mask. The performance of the face detection model is enhanced using OpenVino toolkit from Intel which enables faster CPU inferenc. The initial mask detection model was trained using tensorflow and keras with the ResNet50 architecture.
 
-![img]()
+![img](https://github.com/vyzboy92/mask-detection/blob/master/utils/demo.jpg)
 
 ## Pre-requisites
 1. OpenVINO Toolkit 
